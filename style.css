@@ -1,0 +1,138 @@
+/* css preset */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* navigation bar */
+.nav{
+    background-color: rgb(60, 98, 98);
+    color:white;
+}
+.nav-link{
+    color:rgb(255, 254, 254);
+}
+
+
+/* bodycontent */
+
+/* About Section */
+#About{
+    font-size:20pt;
+    background-position: center;
+    background-color: wheat;
+padding:4% 15%
+}
+
+h1,h3{
+    font-family: 'Righteous', cursiv;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    line-height:2;
+}
+/* Carousal Section */
+.Carousel{
+    margin:auto;
+    background-color: rgb(14, 198, 201);
+    color:white;
+}
+
+
+.img2{
+margin:auto;
+    padding:5px 30px;
+    width:75%
+}
+
+ .img1{
+     width:30%;
+     justify-content:center;
+     margin:auto;
+     position: relative;
+     float:clear; 
+ }
+.img-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size:medium;
+    text-align:center;
+    line-height:2;
+    
+}
+.img-head{
+
+    text-align:center;
+}
+
+/* GotO Section */
+
+.card-group{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin:4px;
+
+background-image: url("D:\Resume Html\My resumen new\Image\img13.jpg");
+}
+
+
+.card{
+    background-image: url("D:\Resume Html\My resumen new\Image\img13.jpg"); 
+}
+
+.card-title{
+    text-align:center;
+}
+
+.bt{
+text-align:center;
+
+}
+
+.i1{
+     width:75%;
+    padding:20px;
+    margin:auto;
+    border-radius: 100%;
+}
+
+.i2{
+    width:75%;
+   padding:20px;
+   margin:auto;
+   border-radius: 100%;
+}
+/* Contact */
+#ContactMe {
+padding:7% 15%;
+background-color:rgb(230, 127, 190);
+color:white;
+font-size:25pt;
+}
+
+
+
+
+/* Footer */
+footer{
+    text-align:center;
+    background-color: white;
+    padding:30px,10px;
+}
+.foot-head{
+
+    padding:30px,10px;
+}
+
+.i4{
+
+    width:4%;
+    padding:0 2px;
+    margin:auto;
+    }
+.img4{
+
+     width:1.5%
+
+    }
